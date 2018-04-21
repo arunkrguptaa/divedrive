@@ -1,0 +1,22 @@
+{
+  "name": "divedrive",
+  "version": "1.0.0",
+  "description": "contact app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkrguptaa/divedrive.git"
+  },
+  "author": "arun kumar gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunkrguptaa/divedrive/issues"
+  },
+  "homepage": "https://github.com/arunkrguptaa/divedrive#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
